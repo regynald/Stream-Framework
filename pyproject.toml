@@ -6,7 +6,7 @@ authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-redis = "2.8.*"
+redis = "3.5.*"
 cassandra-driver = "2.7.*"
 celery = "3.*"
 six = "^1.15.0"
